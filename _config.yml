@@ -1,7 +1,7 @@
 title: "whohe"
 email: wilsonhernandezortiz@gmail.com
 timezone: America/Bogota
-baseurl: "/"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -34,6 +34,8 @@ authors:
 
 # Social
 social:
+  github: https://github.com/whohe
+  whatsapp: https://wa.me/573164984423?text=Hola%2C%20quiero%20más%20información
   instagram: #
   facebook: #
   twitter: #
