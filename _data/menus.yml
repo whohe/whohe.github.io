@@ -7,8 +7,8 @@ topmenu:
 - title: Sobre mí
   url: "about/"
 
-- title: Contactame
-  url: "contact/"
+#- title: Contactame
+#  url: "contact/"
 
 # Footer Menu
 footermenu:
@@ -19,6 +19,6 @@ footermenu:
 - title: Politica de privacidad
   url: "privacy-policy/"
 
-- title: Contactame
-  url: "contact/"
+#- title: Contactame
+#  url: "contact/"
 
