@@ -140,5 +140,5 @@ Este enfoque facilita la distribución sin comprometer la limpieza del repositor
 ---
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la Licencia GPL-3.0. Consulta el archivo [LICENSE](LICENSE) para más información.
+Este proyecto está licenciado bajo la Licencia GPL-3.0. Consulta el archivo [LICENSE](https://github.com/whohe/pendrive/blob/master/LICENSE) para más información.
 

@@ -48,7 +48,7 @@ Considera usar variables de entorno o archivos de configuración seguros.
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](https://github.com/whohe/sender/blob/master/LICENSE) para más detalles.
 
 ## 🤝 Créditos
 
